@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/cover.jpg"
 ---
 
 Farmako provides smart Hospital Management Software and services to hospitals. We've built android and iOS apps for our users to connect them directly to doctors. We also offer pharmaceutical services to biotechnology and medical companies, as well as deliver healthcare equipment and services to non-hospital market. 
