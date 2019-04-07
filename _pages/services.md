@@ -1,6 +1,6 @@
 ---
 permalink: /services/
-title: "Services"
+title: ""
 header:
   image: "/images/cover.jpg"
 ---
