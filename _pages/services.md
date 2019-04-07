@@ -1,7 +1,6 @@
 ---
 permalink: /services/
 title: "Services"
-author_profile: true
 header:
   image: "/images/cover.jpg"
 ---
