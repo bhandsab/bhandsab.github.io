@@ -1,5 +1,4 @@
 ---
-layout: posts
 permalink: /mission/
 title: "Our Mission"
 author_profile: true
